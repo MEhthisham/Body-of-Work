@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Ehthisham
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning node.js
-- 👀 I’m looking to collaborate on backend projects
+- I’m interested in coding
+- Currently learning node.js
+- Looking to collaborate on backend projects
 - 📫 Reach out to me at ehthisham1408@gmail.com
 
 <!---
