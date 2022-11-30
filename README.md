@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Ehthisham
 - I’m interested in coding
-- Currently learning node.js
-- Looking to collaborate on backend projects
+- Currently learning Java and Python
+- Looking to collaborate on cloud projects
 - 📫 Reach out to me at ehthisham1408@gmail.com
 
 <!---
