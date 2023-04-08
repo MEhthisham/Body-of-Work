@@ -1,5 +1,5 @@
 - Hi, I’m Mohammed Ehthisham 👋
-- I’m developing a passion for coding ⌨️
+- I solve problems through tech and coffee ⌨️
 - Currently learning Java and Python ☕
 - Looking to collaborate on cloud projects ☁
 - 📫 Reach out to me at ehthisham1408@gmail.com
