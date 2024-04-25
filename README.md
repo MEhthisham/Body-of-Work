@@ -4,9 +4,12 @@
 
 - Hi, I’m Mohammed Ehthisham 👋
 - I solve problems through tech and coffee ⌨️
-- Currently learning Java and Python ☕
 - Willing to collaborate on cloud projects ☁
 - 📫 Reach out to me at ehthisham1408@gmail.com
+
+# Skills
+- Python
+- Java
 
 # Education
 
