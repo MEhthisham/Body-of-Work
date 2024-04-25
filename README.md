@@ -1,4 +1,6 @@
-- Hi, I’m Mohammed Ehthisham 👋
+# About Me
+
+## - Hi, I’m Mohammed Ehthisham 👋
 - I solve problems through tech and coffee ⌨️
 - Currently learning Java and Python ☕
 - Looking to collaborate on cloud projects ☁
