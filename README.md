@@ -8,8 +8,9 @@
 - 📫 Reach out to me at ehthisham1408@gmail.com
 
 # Skills
-- Python
-- Java
+- Automation (Python, Powershell)
+- Active Directory
+- SCCM/Windows Re-Imaging 
 
 # Education
 
