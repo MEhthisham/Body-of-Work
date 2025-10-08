@@ -22,7 +22,7 @@ I love building tools that save time, improve processes, and scale seamlessly
 Python 🐍 | PowerShell ⚡| Pandas | NumPy | Selenium  
 
 **Technologies & Platforms:**  
-Active Directory | SCCM | WSUS | Tanium | Amazon EC2 | Git & GitHub | ServiceNow  
+Active Directory | SCCM | WSUS | Tanium | MS-Intune | Amazon EC2 | GitHub | ServiceNow  
 
 **Specialties:**  
 Automation | Windows Ecosystem Management | DevOps | Process Optimisation  
