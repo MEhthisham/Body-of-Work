@@ -51,7 +51,7 @@ Automated data workflows using Python + Selenium, reducing **manual effort by 70
 - **UpTech Bootcamp** – Target (2023) – DB migration & automation projects  
 
 **Certifications:**  
-AWS Cloud Practitioner | Kotlin Fundamentals | [TLG Automation](TLG - Target.jpg)  
+AWS Cloud Practitioner | Kotlin Fundamentals | [TLG Automation](https://github.com/MEhthisham/Body-of-Work/blob/main/TLG%20-%20Target.jpg)
 
 ---
 
