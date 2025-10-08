@@ -11,7 +11,7 @@ I love building tools that save time, improve processes, and scale seamlessly
 ## 🌟 What I Do
 
 - Automate repetitive tasks using **Python**, **PowerShell**
-- Manage and optimise **Windows environments**: Active Directory, SCCM, WSUS  
+- Manage and optimise **endpoints in Windows environments**: Active Directory, SCCM, WSUS, Tanium
 - Design scripts and bots that save hundreds of hours annually  
 
 ---
@@ -65,7 +65,7 @@ AWS Cloud Practitioner | Kotlin Fundamentals | TLG Automation & Data Workflows
 
 ## 🌱 Interests
 
-- Windows Ecosystem SME | Automation & DevOps | Cloud Computing  | IaC
+- Windows Ecosystem SME | Automation | DevOps | Cloud Computing  
 - Travelling | Food | Reading | Fitness  
 
 ---
